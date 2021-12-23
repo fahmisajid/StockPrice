@@ -1,0 +1,7 @@
+streamlit==0.84.0
+pandas==0.25.3
+base58==2.1.0
+matplotlib==3.3.4
+numpy==1.20.1
+yfinance==0.1.63
+lxml==4.6.3
